@@ -2,7 +2,7 @@
   "name": "findres",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://modangirlbin.github.io/res_test/",
+  "homepage": "https://modangirlbin.github.io/res_test",
   "dependencies": {
     "@babel/core": "7.1.0",
     "@material-ui/core": "^3.3.2",
