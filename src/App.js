@@ -16,7 +16,6 @@ class App extends Component {
               <Route exact path="/" component={Home}></Route>
               <Route path="/search" component={Search}></Route>
               <Route path="/detail/:id" component={Detail}></Route>
-              <Route render={() => <div>일치하는 페이지가 없음</div>} />
             </Switch>
           </div>
         </Router>
