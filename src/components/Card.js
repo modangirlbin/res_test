@@ -7,7 +7,7 @@ class Card extends Component {
     
     let styles = {
       thum : {
-        backgroundColor: 'yellow'
+        // backgroundColor: 'yellow'
         // height: '500px',
       },
       tit : {
