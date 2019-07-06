@@ -18,7 +18,6 @@ class Detail extends Component {
     return (
       <div className="main wrap">
         <IntroView />
-        <SelectBox />
         <TitleMain resId={this.props.match.params.id}/>
         <SwiperMain resId={this.props.match.params.id}/>
         <ResInfo resId={this.props.match.params.id}/>

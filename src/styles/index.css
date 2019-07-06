@@ -34,6 +34,11 @@ a{text-decoration:none;color:#000;}
 **********************************************************/
 
 /** layout **/
+html{
+  min-height:100%;
+  background-color:tan;
+}
+
 .App{
   background: tan;
 }
@@ -266,4 +271,10 @@ h1{
 /* btn > go_list */
 .btn_go_list{
   display:inline-block;
+}
+
+/* 검색결과 없을경우 */
+.result_msg{
+  margin-top:20px;
+  font-size:13px;
 }
