@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 class Card extends Component {
   render() {
-    const imgUrl = this.props.imgUrl ? this.props.imgUrl : 'http://inarainbow.dothome.co.kr/sat_study/catalog-default-img.gif'
+    const imgUrl = this.props.imgUrl ? this.props.imgUrl : '../assets/images/catalog-default-img.gif'
     
     let styles = {
       thum : {

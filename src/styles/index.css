@@ -53,7 +53,7 @@ html{
 .intro-visual {
   position:relative;
   height: 45vh;
-  background: #fff url("http://inarainbow.dothome.co.kr/sat_study/main_visual_01.jpg") no-repeat center/cover;
+  background: #fff url("../assets/images/main_visual_01.jpg") no-repeat center/cover;
   width: 100%;
 }
 .intro-txt{
@@ -108,7 +108,7 @@ html{
   border-radius:50%;
   border:none;
   text-indent:-9999px;
-  background:#fff url(http://inarainbow.dothome.co.kr/sat_study/btn_search.png) no-repeat center center;
+  background:#fff url(../assets/images/btn_search.png) no-repeat center center;
 }
 @media (max-width: 580px){
   .search-option {
